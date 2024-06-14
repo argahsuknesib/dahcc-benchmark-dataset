@@ -1,0 +1,1 @@
+## Accelerometer Data Stream for Human Activity Recognition 
